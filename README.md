@@ -73,6 +73,8 @@ git commit -m "Add demo commit for Pair Extraordinaire badge Co-authored-by: You
 
 >  ✅ Badge progress achieved!
 
+---
+
 ### 2️⃣ Contributor Method (Collaboration)
 
 -  **Work with a friend: Fork → branch → code changes**
@@ -86,6 +88,8 @@ Co-authored-by: Teammate Name <teammate@example.com>
 
 -  **Open PR → Merge into default branch → badge progress**
 
+---
+
 ### 3️⃣ IDE Method (VS Code / IntelliJ IDEA)
 
 -  **VS Code**:
@@ -96,7 +100,9 @@ Co-authored-by: Teammate Name <teammate@example.com>
 -  **IntelliJ IDEA**:
     -  Commit changes → in commit message box → add co-author line manually
     -  Push → merge PR
- 
+
+---
+
 ###  4️⃣ Git CLI Method (Terminal)
 
 -  **Clone repo**
@@ -139,7 +145,7 @@ Co-authored-by: Friend Name <friend@example.com>"
 
 -  **Push & merge → badge progress**
 
-> 🎯 Done via Git CLI!
+🎯 Done via Git CLI!
 
 ---
 
