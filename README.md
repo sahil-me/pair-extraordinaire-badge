@@ -28,11 +28,8 @@ This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge
 
 ##  📌 What is the Pair Extraordinaire Badge?
 
-The **Pair Extraordinaire** badge is awarded when two or more people co-author a commit that is merged into the default branch of a repository.
+The **Pair Extraordinaire** badge is awarded when two or more people co-author a commit that is merged into the default branch of a repository. You and your collaborator(s) will appear under that commit (via Co-authored-by) on GitHub.
 
-You and your collaborator(s) will appear under that commit (via Co-authored-by) on GitHub.
-
-**Community discussions confirm**:
 - Symbol: Two people 🟢🟢 working together
 - Purpose: Represents teamwork & collaboration in coding
 - Unlock: ✅ Earn it by using Git’s Co-authored-by feature in commits
