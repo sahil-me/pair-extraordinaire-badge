@@ -2,7 +2,7 @@
 
 Welcome to the **Pair-Extraordinaire Badge** Guide!
 
-This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge on GitHub by **co-authoring** commits with another developer.
+This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge on GitHub by making **co-authored commits** in pull requests.
 
 ![giphy](https://github.com/user-attachments/assets/19a4d159-f9e0-425f-a6f8-5352b66a9d2e)
 
@@ -10,11 +10,11 @@ This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge
 
 ## 📢 Table of Contents
 
-- What is the Pair Extraordinaire Badge?
-  - Requirements
-- Step-by-Step Guide
-  - Solo + Co-Author Method
-  - Contributor Method
+- [What is the Pair Extraordinaire Badge?](#-what-is-the-pair-extraordinaire-badge)
+  - [Requirements](#-requirements)
+- [Step-by-Step Guide](#%EF%B8%8F-step-by-step-guide)
+  - [Co-Author Commit Method](#)
+  - [Contributor / Collaboration Method](#)
   - IDE Method
   - Git CLI Method
 - Screenshots
@@ -27,9 +27,13 @@ This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge
 ---
 
 ##  📌 What is the Pair Extraordinaire Badge?
-The Pair Extraordinaire badge is awarded when you co-author commits with another developer on GitHub.
 
-- Symbol: Two people 🤝 working together
+The **Pair Extraordinaire** badge is awarded when two or more people co-author a commit that is merged into the default branch of a repository.
+
+You and your collaborator(s) will appear under that commit (via Co-authored-by) on GitHub.
+
+**Community discussions confirm**:
+- Symbol: Two people 🟢🟢 working together
 - Purpose: Represents teamwork & collaboration in coding
 - Unlock: ✅ Earn it by using Git’s Co-authored-by feature in commits
 
@@ -37,12 +41,13 @@ The Pair Extraordinaire badge is awarded when you co-author commits with another
 
 ## 🔻 Requirements:
 
-- ✅ **Co-author required** – commit must list at least two authors
-- ✅ **Public repositories only** – commits in private repos don’t count
-- ✅ **Verified email** – commit emails must match GitHub account emails
-- ✅ **Commit pushed to default branch** – typically main or master
+- ✅ **Co-authored commit**: The commit must contain at least one Co-authored-by: Name <email> line referencing another GitHub user.
+- ✅ **Public repositories only**: commits in private repos don’t count
+- ✅ **Verified email**: commit emails must match GitHub account emails
+- ✅ **Commit pushed to default branch**: typically main or master
+- ✅ **Public repository (recommended)**: Using public repos is more reliably counted by GitHub. Private repos may sometimes not register the badge.
 
-> ⚠️ **Important**: Just making a PR is not enough you need a commit with co-authors.
+> ⚠️ **Important**: Just making a PR is not enough you need a commit with co-authors!
 
 ---
 
@@ -54,39 +59,33 @@ The Pair Extraordinaire badge is awarded when you co-author commits with another
 
 ---
 
-### 1️⃣ Solo + Co-Author Method
+### 1️⃣ Co-Author Commit Method
 
-- **Create a repository**:
-    - Name: github-pair-extraordinaire-badge-guide
-    - Public + README
-
--  **Make a change with co-author line**:
+  -  Create or use a repository (public or shared)
+  -  Ensure your collaborator is added as a collaborator (if it’s your repo)
+  -  Create a new branch
+  -  Make a commit, putting your co-author metadata properly, e.g.:
 
 ```bash
 
-git commit -m "Add demo commit for Pair Extraordinaire badge Co-authored-by: YourFriend <friend@example.com>"
+git commit -m "Add feature X for Pair Extraordinaire badge Co-authored-by: Collaborator Name <collab@example.com>"
 
 ```
 
--  **Push the commit**
--  **Check commit on GitHub → it should show two authors**
+  -  Push, open a pull request → merge into default branch
+  -  Once merged, your co-authored commit should appear and (in many cases) trigger the badge
 
->  ✅ Badge progress achieved!
+>  ✅ **Badge progress achieved!**
 
 ---
 
-### 2️⃣ Contributor Method (Collaboration)
+### 2️⃣ Contributor / Collaboration Method
 
--  **Work with a friend: Fork → branch → code changes**
--  **Add Co-authored-by line in your commit**:
-
-```bash
-
-Co-authored-by: Teammate Name <teammate@example.com>
-
-```
-
--  **Open PR → Merge into default branch → badge progress**
+  -  Fork a public project or contribute to a shared repository
+  -  Work together with someone ensure they are also a collaborator (or the repo already permits them)
+  -  In your commit, include Co-authored-by: … lines
+  -  Submit pull request → get it merged
+  -  Badge progress should increment
 
 ---
 
@@ -105,7 +104,7 @@ Co-authored-by: Teammate Name <teammate@example.com>
 
 ###  4️⃣ Git CLI Method (Terminal)
 
--  **Clone repo**
+  -  Clone repo
 
 ```bash
 
@@ -115,7 +114,7 @@ cd github-pair-extraordinaire-badge-guide
 
 ```
 
--  **Create branch**
+  -  Create branch
 
 ```bash
 
@@ -123,7 +122,7 @@ git checkout -b pair-extraordinaire-branch
 
 ```
 
--  **Make change**
+  -  Make change
 
 ```bash
 
@@ -131,7 +130,7 @@ echo "🤝 Pair Extraordinaire demo file" >> demo.txt
 
 ```
 
--  **Stage & commit with co-author**
+  -  Stage & commit with co-author
 
 ```bash
 
@@ -141,9 +140,9 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ```
 
--  **Push & merge → badge progress**
+  -  Push & merge → badge progress
 
-🎯 Done via Git CLI!
+🎯 **Done via Git CLI!**
 
 ---
 
