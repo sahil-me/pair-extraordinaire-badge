@@ -13,16 +13,16 @@ This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge
 - [What is the Pair Extraordinaire Badge?](#-what-is-the-pair-extraordinaire-badge)
   - [Requirements](#-requirements)
 - [Step-by-Step Guide](#%EF%B8%8F-step-by-step-guide)
-  - [Co-Author Commit Method](#)
-  - [Contributor / Collaboration Method](#)
-  - IDE Method
-  - Git CLI Method
-- Screenshots
-- When Will the Badge Appear?
-- Badge Levels
-- Important Limitations
-- Why This Repo?
-- Author
+  - [Co-Author Commit Method](#1%EF%B8%8F⃣-co-author-commit-method)
+  - [Contributor / Collaboration Method](#2%EF%B8%8F⃣-contributor--collaboration-method)
+  - [IDE Method](#3%EF%B8%8F⃣-ide-method-vs-code--intellij-idea)
+  - [Git CLI Method](#4%EF%B8%8F⃣-git-cli-method-terminal)
+- [Screenshots](#-screenshots)
+- [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
+- [Badge Levels](#-badge-levels)
+- [Important Limitations](#-important-limitations)
+- [Why This Repo?](#-why-this-repo)
+- [Author](#-author)
 
 ---
 
@@ -146,7 +146,7 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 ---
 
