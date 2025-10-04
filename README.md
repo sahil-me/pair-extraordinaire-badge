@@ -1,4 +1,4 @@
-#  🤝 Pair Extraordinaire Badge Guide ✨
+# 🟢 Pair Extraordinaire Badge Guide ✨
 
 Welcome to the **Pair-Extraordinaire Badge** Guide!
 
@@ -206,6 +206,6 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 Made with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
 
-![giphy (4)](https://github.com/user-attachments/assets/ed379b15-e3c9-4caa-8278-65ff12e00b2b)
-
 🎈 Happy contributing & badge collecting! :relaxed:
+
+![giphy (5)](https://github.com/user-attachments/assets/d84c9fde-c973-4bfe-9fcd-f5d26c69a16d)
