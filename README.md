@@ -39,10 +39,9 @@ The **Pair Extraordinaire** badge is awarded when two or more people co-author a
 ## 🔻 Requirements:
 
 - ✅ **Co-authored commit**: The commit must contain at least one Co-authored-by: Name <email> line referencing another GitHub user.
-- ✅ **Public repositories only**: commits in private repos don’t count
+- ✅ **Public repository (recommended)**: Using public repos is more reliably counted by GitHub. Private repos may sometimes not register the badge.
 - ✅ **Verified email**: commit emails must match GitHub account emails
 - ✅ **Commit pushed to default branch**: typically main or master
-- ✅ **Public repository (recommended)**: Using public repos is more reliably counted by GitHub. Private repos may sometimes not register the badge.
 
 > ⚠️ **Important**: Just making a PR is not enough you need a commit with co-authors!
 
