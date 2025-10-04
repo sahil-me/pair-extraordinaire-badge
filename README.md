@@ -137,9 +137,7 @@ echo "🤝 Pair Extraordinaire demo file" >> demo.txt
 
 git add demo.txt
 
-git commit -m "Add Pair Extraordinaire demo
-
-Co-authored-by: Friend Name <friend@example.com>"
+git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@example.com>"
 
 ```
 
