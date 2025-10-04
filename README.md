@@ -162,7 +162,6 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ## 🏅 Badge Levels
 
-
 The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 | Level       | Requirement            | Badge Display          |
@@ -180,7 +179,9 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 ## 🚫 Important Limitations
 
 ❌ **What Doesn't Count**
-      
+
+![giphy (5)](https://github.com/user-attachments/assets/d84c9fde-c973-4bfe-9fcd-f5d26c69a16d)
+
   -  Private repo commits
   -  Commits without Co-authored-by line
   -   Fake/non-verified emails
@@ -205,5 +206,3 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 Made with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
 
 🎈 Happy contributing & badge collecting! :relaxed:
-
-![giphy (5)](https://github.com/user-attachments/assets/d84c9fde-c973-4bfe-9fcd-f5d26c69a16d)
