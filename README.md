@@ -198,8 +198,6 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
   -  Covers UI, IDE, and CLI workflows
   -  Encourages collaboration & open-source teamwork
 
-![giphy (4)](https://github.com/user-attachments/assets/ed379b15-e3c9-4caa-8278-65ff12e00b2b)
-
 ✔ If this helped you → don’t forget to ⭐ star the repo!
 
 ---
@@ -208,7 +206,6 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 Made with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
 
-![giphy (2)](https://github.com/user-attachments/assets/bb775c24-f208-47d2-b037-027b0d2c9835)
+![giphy (4)](https://github.com/user-attachments/assets/ed379b15-e3c9-4caa-8278-65ff12e00b2b)
 
 🎈 Happy contributing & badge collecting! :relaxed:
-
