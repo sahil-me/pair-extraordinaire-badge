@@ -4,7 +4,7 @@ Welcome to the **Pair-Extraordinaire Badge** Guide!
 
 This repo demonstrates how to earn the **Pair-Extraordinaire** achievement badge on GitHub by **co-authoring** commits with another developer.
 
-add gif ghipsy--
+![giphy](https://github.com/user-attachments/assets/19a4d159-f9e0-425f-a6f8-5352b66a9d2e)
 
 ---
 
@@ -48,7 +48,7 @@ The Pair Extraordinaire badge is awarded when you co-author commits with another
 
 ## 🛠️ Step-by-Step Guide
 
-add gif ghipsy--
+![giphy (3)](https://github.com/user-attachments/assets/de1c4e89-ab71-4705-b1b1-74a82a8ba6f0)
 
 ### 👉 Four Ways to Earn the Pull Shark Badge
 
@@ -164,6 +164,7 @@ Co-authored-by: Friend Name <friend@example.com>"
 
 ## 🏅 Badge Levels
 
+
 The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 | Level       | Requirement            | Badge Display          |
@@ -177,13 +178,16 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 ---
 
+
 ## 🚫 Important Limitations
 
 ❌ **What Doesn't Count**
-    -  Private repo commits
-    -  Commits without Co-authored-by line
-    -  Fake/non-verified emails
-    -  Unmerged commits in non-default branches
+      
+  -  Private repo commits
+  -  Commits without Co-authored-by line
+  -   Fake/non-verified emails
+  -  Unmerged commits in non-default branches
+
 
 ---
 
@@ -194,6 +198,8 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
   -  Covers UI, IDE, and CLI workflows
   -  Encourages collaboration & open-source teamwork
 
+![giphy (4)](https://github.com/user-attachments/assets/ed379b15-e3c9-4caa-8278-65ff12e00b2b)
+
 ✔ If this helped you → don’t forget to ⭐ star the repo!
 
 ---
@@ -202,4 +208,7 @@ The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 Made with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
 
+![giphy (2)](https://github.com/user-attachments/assets/bb775c24-f208-47d2-b037-027b0d2c9835)
+
 🎈 Happy contributing & badge collecting! :relaxed:
+
