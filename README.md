@@ -152,10 +152,10 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ##  ⏱️ When Will the Badge Appear?
 
--  Usually within minutes on Profile → Achievements
--  Sometimes up to 24 hours
+-  Usually within minutes after your commit is merged
+-  In some cases, it may take up to 24 hours
 
->  **Note**: If not showing → make another co-authored commit
+>  **Note**: If it doesn’t appear → try repeating with another co-authored commit
 
 ---
 
@@ -163,36 +163,34 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
-| Level       | Requirement            | Badge Display          |
+| Level       | Requirement (co-authored merged commits)            | Badge Display          |
 | ----------- | ---------------------- | ---------------------- |
 | **Initial** | 1 co-authored commit   | Pair Extraordinaire x1 |
 | **Bronze**  | 10 co-authored commits | Pair Extraordinaire x2 |
 | **Silver**  | 24 co-authored commits | Pair Extraordinaire x3 |
 | **Gold**    | 48 co-authored commits | Pair Extraordinaire x4 |
 
-> **Note**: The "x" number indicates achievement level, not separate badge types
+> **Note**: The "x" number indicates achievement level, not separate badge types!
 
 ---
 
-
 ## 🚫 Important Limitations
-
-❌ **What Doesn't Count**
 
 ![giphy (5)](https://github.com/user-attachments/assets/d84c9fde-c973-4bfe-9fcd-f5d26c69a16d)
 
+❌ **What Doesn't Count**
+
   -  Private repo commits
   -  Commits without Co-authored-by line
-  -   Fake/non-verified emails
+  -  Fake/non-verified emails
   -  Unmerged commits in non-default branches
-
 
 ---
 
 ## ⭐ Why This Repo?
 
   -  Helps new developers understand co-authoring commits
-  -  Demonstrates Pair Extraordinaire badge clearly
+  -  Demonstrates the **Pair Extraordinaire** badge clearly
   -  Covers UI, IDE, and CLI workflows
   -  Encourages collaboration & open-source teamwork
 
