@@ -144,6 +144,8 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ## 📸 Screenshots
 
+<img width="1366" height="768" alt="Pair Extraordinarie Badge_SC" src="https://github.com/user-attachments/assets/e13eaad4-b829-4423-8bf9-b168e4be1473" />
+
 ---
 
 ##  ⏱️ When Will the Badge Appear?
