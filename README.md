@@ -152,6 +152,8 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ##  ⏱️ When Will the Badge Appear?
 
+<img width="148" height="148" alt="Pair Extraordinarie Badge1" src="https://github.com/user-attachments/assets/52a22dc8-bcde-4a20-a610-8125ab37bc27" />
+
 -  Usually within minutes after your commit is merged
 -  In some cases, it may take up to 24 hours
 
