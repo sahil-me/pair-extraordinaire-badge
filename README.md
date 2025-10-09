@@ -163,6 +163,8 @@ git commit -m "Add Pair Extraordinaire demo Co-authored-by: Friend Name <friend@
 
 ## 🏅 Badge Levels
 
+<img width="563" height="173" alt="Pair Extraordinarie Badge2" src="https://github.com/user-attachments/assets/1c51cd89-4f0d-4af3-b729-9c65162b3833" />
+
 The **Pair-Extraordinaire** badge uses an "x" multiplier system:
 
 | Level       | Requirement (co-authored merged commits)            | Badge Display          |
