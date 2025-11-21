@@ -34,8 +34,6 @@ The **Pair Extraordinaire** badge is awarded when two or more people co-author a
 - Purpose: Represents teamwork & collaboration in coding
 - Unlock: ✅ Earn it by using Git’s Co-authored-by feature in commits
 
----
-
 ## 🔻 Requirements:
 
 - ✅ **Co-authored commit**: The commit must contain at least one Co-authored-by: Name <email> line referencing another GitHub user.
